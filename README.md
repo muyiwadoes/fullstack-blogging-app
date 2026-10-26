@@ -1,7 +1,7 @@
 ### Full-Stack Blog App 
 ```
 Job Scenario:
-I was tasked with setting up a CI/CD pipeline for a full-stack blogging app hosted on GitHub.
+As a devops engineer I was tasked with setting up a CI/CD pipeline for a full-stack blogging app hosted on GitHub.
 The project involves integrating Jenkins for build and deployment, using SonarQube for code quality checks,
 Nexus for artifact management, and Docker for containerizing the application.
 Once deployed, we will monitor the application using Prometheus, Blackbox Exporter, and visualize it with Grafana.
